@@ -8,13 +8,6 @@ Machines.
 # Dataset link 
 https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 # Dataset Formation
- Train data:
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-ID ::: TITLE ::: GENRE ::: DESCRIPTION
-Test data:
-ID ::: TITLE ::: DESCRIPTION
-ID ::: TITLE ::: DESCRIPTION
-ID ::: TITLE ::: DESCRIPTION
-ID ::: TITLE ::: DESCRIPTION
+Train data:(ID ::: TITLE ::: GENRE ::: DESCRIPTION)
+Test data: (ID ::: TITLE ::: DESCRIPTION)
+
