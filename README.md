@@ -39,3 +39,10 @@ classifiers like Naive Bayes, Logistic Regression, or Support Vector
 Machines to identify spam messages.
 # Dataset link 
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+# TASK 5
+#  TEXT GENERATION
+ Implement a character-level recurrent neural network (RNN) to
+ generate  text
+# Dataset link 
+https://paperswithcode.com/dataset/deepwriting
